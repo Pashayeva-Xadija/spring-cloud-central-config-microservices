@@ -114,10 +114,5 @@ Service URLs:
 
 ## 👤Made with by **Xadija Pashayeva**
  
-📧 xadijapashayeva@gmail.com  
 
-🔗 LinkedIn: https://www.linkedin.com/in/xadija-pashayeva
-
-
-Enabled via:
 
